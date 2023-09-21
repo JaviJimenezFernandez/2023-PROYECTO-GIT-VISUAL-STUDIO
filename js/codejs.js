@@ -1,3 +1,3 @@
 function saludo(){
-    alert ("Proyecto Git - VSC");
+    alert ("Proyecto nuevo Git - VSC");
 }
